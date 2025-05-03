@@ -1,4 +1,4 @@
-🧪 Análise de Agrupamentos e Redução de Dimensionalidade com Scikit-learn
+# 🧪 Análise de Agrupamentos e Redução de Dimensionalidade com Scikit-learn
 Este projeto de Data Science explora diversas técnicas de clusterização e redução de dimensionalidade aplicadas a diferentes tipos de dados, utilizando bibliotecas do ecossistema Python como scikit-learn, matplotlib e pandas. As análises foram desenvolvidas no ambiente Google Colab e são apresentadas de forma sequencial com explicações e visualizações de apoio.
 
 🔍 Etapas do Projeto
